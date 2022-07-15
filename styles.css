@@ -1,0 +1,37 @@
+
+@font-face {src: url(Calvin-Fallen.ttf);
+    font-family: Calvin-Fallen;
+}
+body {
+    color: white;
+    background-image: url("images/cherry-blossom-giphy.gif");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: 'Calvin-Fallen', sans-serif;
+   }
+
+
+#main-logo {
+    margin-top: 80px;
+    width: 100px;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Calvin-Fallen', sans-serif;
+    font-style: bold;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+
+#link {
+    font-family: Arial, Helvetica, sans-serif;
+    font: 20px bold white;
+}
+   
