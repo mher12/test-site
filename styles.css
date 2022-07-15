@@ -2,6 +2,12 @@
 @font-face {src: url(Calvin-Fallen.ttf);
     font-family: Calvin-Fallen;
 }
+
+#main-logo {
+    margin-top: 80px;
+    width: 100px;
+   }
+
 body {
     color: white;
     background-image: url("images/ocean.gif");
@@ -10,11 +16,6 @@ body {
     background-attachment: fixed;
     text-align: center;
     font-family: 'Calvin-Fallen', sans-serif;
-   }
-
-#main-logo {
-    margin-top: 80px;
-    width: 100px;
    }
 
 .btn {
